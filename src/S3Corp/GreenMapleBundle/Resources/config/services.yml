@@ -1,0 +1,7 @@
+parameters:
+#    s3_corp_green_maple.example.class: S3Corp\GreenMapleBundle\Example
+
+services:
+#    s3_corp_green_maple.example:
+#        class: %s3_corp_green_maple.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

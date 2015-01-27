@@ -1,0 +1,3 @@
+s3_corp_green_maple:
+    resource: "@S3CorpGreenMapleBundle/Resources/config/routing.yml"
+    prefix:   /
